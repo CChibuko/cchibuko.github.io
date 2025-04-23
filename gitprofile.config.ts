@@ -85,7 +85,7 @@ const CONFIG = {
   skills: [
     'Agarose Gel',
     'Bioinformatics',
-    'Septic Technique',
+    'Aseptic Technique',
     'Bacteria Isolation',
   ],
   experiences: [
