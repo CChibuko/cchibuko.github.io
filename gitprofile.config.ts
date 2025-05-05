@@ -122,13 +122,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Draft Genome Sequence of Maricaulis maris DSM 4734 Isolated from Filtered Polluted Seawater',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Microbiology Resource Announcement',
+      authors: 'Chioma Chibuko, Elias Figueiredo, Sebastian Lepe, Melanie Rivera, Joseph Sada, Tricia A. Van Laar',
       link: 'https://example.com',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This is a manuscript in submission: Here, we report the genome of Maricaulis maris DSM 4734 isolated from filtered polluted seawater. The whole genome was 3568848 bp long, with a GC content of 63.14%, and resistance to 12 antibiotics.',
     },
     {
       title: 'Publication Title',
