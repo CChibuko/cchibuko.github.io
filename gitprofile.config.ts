@@ -90,18 +90,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'California State University, Stanislaus',
+      position: 'Peer Mentor Intern',
+      from: 'September 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.csustan.edu/learning-commons/about-us',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'California State University, Stanislaus',
+      position: 'Supplemental Intruction Leader',
+      from: 'January 2022',
+      to: 'Present',
+      companyLink: 'https://www.csustan.edu/learning-commons/supplemental-instruction',
     },
   ],
   certifications: [
