@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/CChibuko/cchibuko.github.io/raw/main/ChiomaChibukoCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Agarose Gel',
